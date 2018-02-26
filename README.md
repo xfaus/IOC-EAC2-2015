@@ -1,3 +1,3 @@
-# IOC-EAC2-2015
+# Codi de proves per git
 
-Codi per la part de proves de l'EAC2
+Codi de proves per git
